@@ -14,7 +14,7 @@ def stop_loop():
     is_running = False
 
 def main():
-    # Mengatur waktu program berjalan selama waktu yang diinginkan (detik)
+    # waktunya
     threshold = 4
 
     global is_running
