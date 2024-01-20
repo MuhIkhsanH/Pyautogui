@@ -27,7 +27,7 @@ if calculator_handle:
     while True:
         click_at_position_in_window(calculator_handle, 221, 437)
         print("Melakukan klik pada koordinat (221, 437) di dalam jendela Calculator.")
-        time.sleep(5)  # Melakukan klik setiap 1 detik
+        time.sleep(5)  # Melakukan klik setiap 5 detik
 
 else:
     print("Calculator tidak ditemukan.")
